@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yutong (Rita) Si"
+title                    : #"Yutong (Rita) Si"
 title_separator          : "/"
-name                     : &name "Yutong Si"
+name                     : &name "Yutong(Rita) Si"
 description              : &description "personal description"
 url                      : https://yutongsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
