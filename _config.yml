@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yutong (Rita) Si / PhD Student"
-title_separator          : "-"
+title                    : "Yutong (Rita) Si / PhD Candidate"
+title_separator          : " "
 name                     : &name "Yutong Si"
 description              : &description "personal description"
 url                      : https://yutongsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yutong (Rita) Si"
   avatar           : "Si_Profile Image Square 2022.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Yutong Si is a doctoral candidate in the School of Public Policy and Urban Affairs at Northeastern University. Yutong's dissertation research aims to develop a better understanding of how to design and implement policies that promote renewable energy deployment, phase out fossil fuels, and advance energy justice. She is passionate about utilizing computational text analysis and social network analysis in her research."
   location         : "Boston, United States"
   employer         : Northeastern Universtiy
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en"
   email            : si.yut@northeastern.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
