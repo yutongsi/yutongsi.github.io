@@ -25,16 +25,16 @@ Southeast University | Nanjing, China
 - B.A., Political Science and Public Administration, 2016, invited to enter the M.A. program
 
 ### _NON-DEGREES_
-- The Education University of Hong Kong | Hong Kong, China
+- The Education University of Hong Kong &# Hong Kong, China
   - Scholar at the 2nd International Summer Training Camp for Young Public Policy Researchers
     
-- Nankai University | Tianjin, China
+- Nankai University &# Tianjin, China
   - Scholar for the 9th China International Civil Servants Capacity Building Program, hosted by the UN Association of China
     
-- IES Abroad | Vienna, Austria & Geneva, Switzerland
+- IES Abroad &# Vienna, Austria & Geneva, Switzerland
   - Selected Participant for the Short Course of International Organizations
     
-- Huazhong Agricultural University | Wuhan, China
+- Huazhong Agricultural University &# Wuhan, China
   - Selected Participant in the Applied Social Science Research Methods Training Workshop
 
 ## Selected Grants, Fellowships & Awards
