@@ -21,15 +21,31 @@ Northeastern University | Boston, MA
 - Ph.D., Public Policy, expected April 2024, Dissertation: Energy Justice, Energy Policy, and Transformative Climate Action
 
 Southeast University | Nanjing, China
-- M.A., Public Administration, 2019, national scholarship, outstanding graduate student, & outstanding master thesis
+- M.A., Public Administration, 2019, national scholarship, outstanding graduate student & outstanding master thesis
 - B.A., Political Science and Public Administration, 2016, invited to enter the M.A. program
 
 ### _NON-DEGREES_
 - The Education University of Hong Kong | Hong Kong, China
   - Scholar at the 2nd International Summer Training Camp for Young Public Policy Researchers
+    
 - Nankai University | Tianjin, China
   - Scholar for the 9th China International Civil Servants Capacity Building Program, hosted by the UN Association of China
+    
 - IES Abroad | Vienna, Austria & Geneva, Switzerland
   - Selected Participant for the Short Course of International Organizations
+    
 - Huazhong Agricultural University | Wuhan, China
   - Selected Participant in the Applied Social Science Research Methods Training Workshop
+
+## Selected Grants, Fellowships & Awards
+- NULab for Texts, Maps, and Networks Seedling Grant in support of data collection, Northeastern University, Dec. 2023
+- 2023 Association for the Advancement of Sustainability in Higher Education (AASHE) Sustainability Award for _Climate justice in higher education: a proposed paradigm shift towards a transformative role for colleges and universities_
+- Travel Funding Award, Northeastern University, 2021, 2022 & 2023
+- American Political Science Association (APSA) Annual Meeting Travel Grant, 2023
+- International Public Policy Association (IPPA) Annual Meetng Travel Grant, 2023
+- Fall 2022 College of Social Sciences and Humanities (CSSH) Experiential Fellowship, Northeastern University, 2022
+- Outstanding Master Thesis Award ($300 USD), Southeast University, 2020
+- Outstanding Master Graduate, Southeast University, 2019
+- Outstanding Graduate Student, Southeast University, 2018
+- Chinese National Scholarship, The Central Government of China, 2017
+- Huazang Scholarship, Southeast University, 2015
