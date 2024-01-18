@@ -39,7 +39,7 @@ redirect_from:
   - “Sustainable strategies of multinational oil and gas companies.” Panel paper presentation
   - “Oil and gas industry messaging: analyzing climate communication tactics.” Poster presentation
 
-- Urban affairs association 50th annual conference, Washington D.C.
+- Urban Affairs Association 50th annual conference, Washington D.C.
   - “Energy Justice Through Solar: Constructing and Engaging Low-Income Households” Panel paper presentation (with Dr. Jennie C. Stephens)
 
 **2021**
