@@ -14,9 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
- 
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
+
+##Journal Articles
 
 - Xiao, Yu, **Yutong Si**, and Yue Guo. Forthcoming. “The Evolution of Social Network Analysis in Public Administration." Chinese Public Administration Review. 
 
@@ -31,3 +32,28 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 - **Si, Yutong**, and Jennie C. Stephens. 2021. [“Energy Justice Through Solar: Constructing and Engaging Low-Income Households.”](https://www.frontiersin.org/articles/10.3389/frsc.2021.632020/full) Frontiers in Sustainable Cities 3:20. doi: 10.3389/frsc.2021.632020.
 
 - **Si, Yutong**. 2020. [“Implementing Targeted Poverty Alleviation: A Policy Implementation Typology.”](https://www.tandfonline.com/doi/full/10.1080/23812346.2020.1802212) Journal of Chinese Governance 1–16. doi: 10.1080/23812346.2020.1802212.
+
+##Book Chapters
+
+- Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
+  
+- **Si, Yutong**, and Jennie C. Stephens. Forthcoming 2024 “An Energy Justice Analysis of the Global Renewable Energy Transformation.” Chapter in “Making A Global Just Transition Possible? A Critical Assessment of the Fossil Fuel and Renewable Energy.” Edward Elgar Publishing.
+
+## Manuscripts Under Review
+
+- Kinol, Alaina, **Yutong Si**, John Kinol, and Jennie C. Stephens. “Networks of climate obstruction: How fossil energy, plastic, and agrichemical industries deny and delay climate policy on social media.”
+  
+- **Si, Yutong**. “Advocacy Group Messaging on Oil and Gas: Unveiling Policy Narratives through Text Mining and Network Analysis.”
+  
+- Desai, Dipa, **Yutong Si**, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. “A Comparative Analysis of the Sustainability Strategies of Multinational Energy Companies.”
+  
+- **Si, Yutong**, Alaina Kinol, and Hongtao Yi. “Public discourse on SDG7: Examining hashtag co-occurrence networks and social justice messaging on Twitter.”
+
+##Publications in Chinese：
+
+- **Si, Yutong**. 2019. “Research on the Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory” (in Chinese). Outstanding Thesis. Southeast University. China National Knowledge Infrastructure (CNKI). DOI: 10.1017/cbo9781107239029.011
+
+- **Si, Yutong**. 2017. “Research on the Targeted Poverty Alleviation on the Model of Wuzhou in Guangxi Zhuang Autonomous Region: A Perspective from ‘Elite Theory’” (in Chinese). Journal of Sichuan Administration College (5), 93-99.
+
+
+
