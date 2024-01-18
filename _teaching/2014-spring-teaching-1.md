@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "PPUA 5264 Energy Democracy & Climate Resilience: Technology, Policy and Social Change"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Northeastern University, School of Public Policy and Urban Affairs"
+date: Fall 2020 & Spring 2024
+location: "Boston, MA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
