@@ -8,8 +8,6 @@ date: Fall 2020 & Spring 2024
 location: "Boston, MA"
 --- -->
 
-#This is a description of a teaching experience. You can use markdown like any other post.
-
 Northeastern University, Boston, MA
 ======
 
