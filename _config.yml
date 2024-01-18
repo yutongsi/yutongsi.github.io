@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Yutong (Rita) Si"
+title                    : "Yutong (Rita) Si"
 title_separator          : "/"
 name                     : &name "Yutong(Rita) Si"
 description              : &description "personal description"
