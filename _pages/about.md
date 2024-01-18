@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="float: left; margin: -4px 0 -5px 0;">
+<figure style="float: left; margin: -4px 0 -4px 0;">
     <img src='../images/background.JPG' style='width:70%;'>
 </figure>
 
