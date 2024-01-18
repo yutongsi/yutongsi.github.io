@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Short CV"
-    #url: /cv/
+  - title: "Short CV"
+    url: /cv/
 
   - title: "Personal"
     url: /personal/ # markdown.md
