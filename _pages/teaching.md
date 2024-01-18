@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Experience**
+**Teaching Experience, Northeastern University, Boston MA**
 - Teaching Assistant, PPUA 5264 Energy Democracy & Climate Resilience: Technology, Policy and Social Change,  Fall 2020 & Spring 2024
 - Teaching Assistant, INSH 6500 Statistical Analysis, Spring 2023 & Fall 2023
 - Teaching Assistant, LPSC 7311 Strategizing Public Policy, Fall 2023
