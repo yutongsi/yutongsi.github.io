@@ -23,6 +23,6 @@ Latest News
 
 - **12/2023** I received [a seedling grant](https://cssh.northeastern.edu/nulab/fall-23-grants/) from [The NULab for Texts, Maps, and Networks](https://cssh.northeastern.edu/nulab/).
 
-- **12/2023** Our paper entitled Climate justice in higher education: a proposed paradigm shift towards a transformative role for colleges and universities won [the 2023 Association for the Advancement of Sustainability in Higher Education (AASHE) Sustainability Award](https://www.aashe.org/get-involved/awards/winners/).
+- **12/2023** Our paper entitled [Climate justice in higher education: a proposed paradigm shift towards a transformative role for colleges and universities](https://link.springer.com/article/10.1007/s10584-023-03486-4) won [the 2023 Association for the Advancement of Sustainability in Higher Education (AASHE) Sustainability Award](https://www.aashe.org/get-involved/awards/winners/).
   
-- **11/2023** I presented my research at tge APPAM 2023 Fall Conference in Atlanta.
+- **11/2023** I presented my research at the APPAM 2023 Fall Conference in Atlanta.
