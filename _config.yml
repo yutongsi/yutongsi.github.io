@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yutong Si"
   avatar           : "Si_Profile Image Square 2022.jpg"
-  bio              : "Doctoral candidate in Public Policy with a concentration in Sustainability and Resilience."
+  bio              : "Doctoral Candidate, School of Public Policy and Urban Affairs, Northeastern University"
   location         : "Boston, United States"
-  employer         : Northeastern Universtiy
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en"
   email            : si.yut@northeastern.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yutong-Si"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/yutong-si-b2332b198"
+  linkedin         : "yutong-si-b2332b198"
   orcid            : "https://orcid.org/0000-0002-4937-1721"
   pinterest        :
   soundcloud       :
