@@ -1,202 +1,71 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /presentations/
+title: "Presentations"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 
+- APPAM 2023 Fall Conference | Atlanta, US| November 2023
+“A holistic approach to narrative strategies: How advocacy groups tell their stories about oil and gas on Twitter. ” Poster presentation
+"Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter. " Panel paper presentation
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+- 2023 American Political Science Association (APSA) Annual Meeting & Exhibition | Los Angeles, US | Aug. 31-Sept. 3, 2023
+" Industry Messaging on Renewables and Natural Gas." Panel paper presentation
 
-## Tips and hints
+- Politics and Computational Social Science (PaCSS) 2023 APSA Pre-conference | Los Angeles, US | Aug. 30, 2023
+" Advocacy Group Messaging on Oil and Gas: Unveiling Narrative Strategies through Text Mining and Network Analysis." Panel paper presentation
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+- 83rd Annual Meeting of the Academy of Management | Boston, United States | August 2023					
+“Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter." Panel paper presentation (DEI division)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+- ICPP 6 | Toronto, Canada | June 27-29, 2023
+“A holistic approach to narrative strategies: How advocacy groups tell their stories about oil and gas on Twitter. ” Panel paper presentation
+"Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter. " Panel paper presentation
 
-## Markdown guide
+- APPAM 2022 Fall Conference | Washington D.C., United States | November 17-19, 2022
+“Oil and Gas Industry Messaging: Analyzing Climate Communication Tactics on Twitter” Panel paper presentation
+"Co-Authorship in Energy Justice Studies: Assessing Research Collaboration through Social Network Analysis and Topic Modeling" Poster presentation
 
-### Header three
+- A Pale Blue Dot under Pressure Symposia at Harvard Radcliffe Institute  | Boston, US｜October 21, 2022
+“Oil and gas industry messaging: analyzing climate communication tactics.” Poster presentation
 
-#### Header four
+- Energy and Climate Transformations: 3rd International Conference on Energy Research & Social Science Conference | Manchester, UK｜June 20-23, 2022
+“Sustainable strategies of multinational oil and gas companies.” Panel paper presentation
+“Oil and gas industry messaging: analyzing climate communication tactics.” Poster presentation
 
-##### Header five
+- Urban affairs association 50th annual conference| Washington D.C., United States｜April 12-14, 2022
+“Energy Justice Through Solar: Constructing and Engaging Low-Income Households” Panel paper presentation (with Dr. Jennie C. Stephens)
 
-###### Header six
+- SIET hosted by Delft University of Technology | Online｜Nov. 2021  
+“Energy Justice Through Solar: Constructing and Engaging Low-Income Households.”  Panel paper presentation
 
-## Blockquotes
+- The 5th European Conference on Social Networks (EUSN) 2021 | Online｜Sept. 2021
+Gave presentation entitled “Reviewing Energy Justice Literature: A Co-authorship Network Analysis” Panel paper presentation
 
-Single line blockquote:
+- SPRU PhD Forum Hosted by the University of Sussex| Online｜June 2021
+“Energy Justice Through Solar: Constructing and Engaging Low-Income Households” Panel paper presentation
 
-> Quotes are cool.
+- National Council for Science and the Environment (NCSE) Drawdown 2021 Conference| Online｜Jan. 2021
+“Energy Justice through Solar: The Social Construction of Low-income Households.” Poster presentation
 
-## Tables
+- APPAM 42nd Annual Fall Research Conference| Online｜Nov. 2020
+“Setting the Environmental Policy Agenda: The Case of Alipay Ant Forest Initiative in China.” Panel paper presentation
 
-### Table 1
+- The 4th SCORAI International Conference at Northeastern University| Online｜June 2020 
+“Towards Sustainable Consumption: Exploring a Company-led Initiative in China.” Panel paper presentation
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+- 2019 Seoul GSPA Conference at Seoul National University | Seoul, South Korea｜July 2019
+“Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory.” Panel paper presentation
 
-### Table 2
+- The 32nd ACPS Annual Meeting at Zhejiang University | Hangzhou, China｜June 2019
+“Research on the Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory." Panel paper presentation
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+- The 8th International Postgraduate Students Conference at PolyU | Hong Kong, China｜Aug. 2018
+“Research on the Targeted Poverty Alleviation on the Model of Wuzhou in Guangxi Zhuang Autonomous Region: A Perspective from ‘Elite Theory’.” Panel paper presentation
 
-## Definition Lists
+- The 8th “Action and Knowledge” Forum at Nanjing Agricultural University | Nanjing, China｜May 2017
+“Challenges and Countermeasures of Governments Purchasing Public Services for the Elderly: Evidence from Nanjing City." Panel paper presentation
 
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
