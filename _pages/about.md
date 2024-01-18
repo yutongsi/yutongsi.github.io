@@ -17,6 +17,6 @@ I am a doctoral candidate in the School of Public Policy and Urban Affairs at No
 Latest News
 ======
 
-- **12/2023** I received a seedling grant from [The NULab for Texts, Maps, and Networks] (https://cssh.northeastern.edu/nulab/)
+- **12/2023** I received a seedling grant from [The NULab for Texts, Maps, and Networks](https://cssh.northeastern.edu/nulab/)
 
 - **12/2023** Our paper entitled Climate justice in higher education: a proposed paradigm shift towards a transformative role for colleges and universities won the 2023 Association for the Advancement of Sustainability in Higher Education (AASHE) Sustainability Award 
