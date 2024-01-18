@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="float: left; margin: -4px 0 -4px 0;">
-    <img src='../images/Si_background.JPG' style='width:100%;'>
-</figure>
+#<figure style="float: left; margin: -4px 0 -4px 0;">
+    #<img src='../images/Si_background.JPG' style='width:100%;'>
+#</figure>
 
 I am a doctoral candidate in the School of Public Policy and Urban Affairs at Northeastern University, where I work closely with Dr. Jennie C. Stephens. My dissertation research aims to develop a better understanding of how to design and implement policies that promote renewable energy deployment, phase out fossil fuels, and advance energy justice. I am passionate about utilizing computational text analysis and social network analysis in my research. I've written papers on fossil fuel companies’ climate communication strategies on Twitter, the policy processes of a low-income solar program in Massachusetts, and the co-authorship network around energy justice. My ongoing dissertation project examines how advocacy groups advance their policy agendas to support or oppose fossil fuels. I am also working on a project funded by Brown University's Climate Social Science Network (CSSN) with Dr. Jennie C. Stephens and colleague Alaina Kinol to examine the interconnections between the fossil fuel, plastic and agrichemical sectors.
 
