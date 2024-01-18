@@ -12,7 +12,11 @@ I am a doctoral candidate in the School of Public Policy and Urban Affairs at No
 
 Scholarly Interests
 ======
-Energy Justice, Climate Communication, Social Media, Computational Text Analysis, Social Network Analysis
+- Energy Justice
+- Climate Communication
+- Social Media
+- Computational Text Analysis
+- Social Network Analysis
 
 Latest News
 ======
