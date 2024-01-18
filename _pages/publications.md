@@ -17,7 +17,7 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
-##Journal Articles
+## Journal Articles
 
 - Xiao, Yu, **Yutong Si**, and Yue Guo. Forthcoming. “The Evolution of Social Network Analysis in Public Administration." Chinese Public Administration Review. 
 
@@ -33,7 +33,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 - **Si, Yutong**. 2020. [“Implementing Targeted Poverty Alleviation: A Policy Implementation Typology.”](https://www.tandfonline.com/doi/full/10.1080/23812346.2020.1802212) Journal of Chinese Governance 1–16. doi: 10.1080/23812346.2020.1802212.
 
-##Book Chapters
+## Book Chapters
 
 - Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
   
@@ -49,7 +49,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
   
 - **Si, Yutong**, Alaina Kinol, and Hongtao Yi. “Public discourse on SDG7: Examining hashtag co-occurrence networks and social justice messaging on Twitter.”
 
-##Publications in Chinese：
+## Publications in Chinese：
 
 - **Si, Yutong**. 2019. “Research on the Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory” (in Chinese). Outstanding Thesis. Southeast University. China National Knowledge Infrastructure (CNKI). DOI: 10.1017/cbo9781107239029.011
 
