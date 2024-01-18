@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "PPUA 5264 Energy Democracy & Climate Resilience: Technology, Policy and Social Change"
 collection: teaching
 type: "Undergraduate/Graduate course"
@@ -6,7 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Northeastern University, School of Public Policy and Urban Affairs"
 date: Fall 2020 & Spring 2024
 location: "Boston, MA"
----
+--- -->
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
