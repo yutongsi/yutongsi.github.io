@@ -37,7 +37,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 - Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
   
-- **Si, Yutong**, and Jennie C. Stephens. Forthcoming 2024 “An Energy Justice Analysis of the Global Renewable Energy Transformation.” Chapter in “Making A Global Just Transition Possible? A Critical Assessment of the Fossil Fuel and Renewable Energy.” Edward Elgar Publishing.
+- **Si, Yutong**, and Jennie C. Stephens. Forthcoming. “An Energy Justice Analysis of the Global Renewable Energy Transformation.” Chapter in “Making A Global Just Transition Possible? A Critical Assessment of the Fossil Fuel and Renewable Energy.” Edward Elgar Publishing.
 
 ## Manuscripts Under Review
 
@@ -49,7 +49,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
   
 - **Si, Yutong**, Alaina Kinol, and Hongtao Yi. “Public discourse on SDG7: Examining hashtag co-occurrence networks and social justice messaging on Twitter.”
 
-## Publications in Chinese：
+## Publications in Chinese
 
 - **Si, Yutong**. 2019. “Research on the Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory” (in Chinese). Outstanding Thesis. Southeast University. China National Knowledge Infrastructure (CNKI). DOI: 10.1017/cbo9781107239029.011
 
