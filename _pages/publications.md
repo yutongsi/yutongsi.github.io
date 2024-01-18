@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Publications
+## 
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
