@@ -12,6 +12,6 @@ main:
   - title: "Short CV"
     url: /cv/
 
-  - title: "Personal"
-    url: /personal/ # 
+  <!-- - title: "Personal"
+    url: /personal/ # -->
    
