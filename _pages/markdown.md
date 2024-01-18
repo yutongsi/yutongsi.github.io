@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 - **APPAM 2023 Fall Conference | Atlanta, US| November 2023**
--   “A holistic approach to narrative strategies: How advocacy groups tell their stories about oil and gas on Twitter. ” Poster presentation
--   "Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter. " Panel paper presentation
+“A holistic approach to narrative strategies: How advocacy groups tell their stories about oil and gas on Twitter. ” Poster presentation
+"Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter. " Panel paper presentation
 
 - **2023 American Political Science Association (APSA) Annual Meeting & Exhibition | Los Angeles, US | Aug. 31-Sept. 3, 2023**
 " Industry Messaging on Renewables and Natural Gas." Panel paper presentation
