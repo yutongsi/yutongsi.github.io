@@ -44,7 +44,7 @@ Southeast University | Nanjing, China
 - American Political Science Association (APSA) Annual Meeting Travel Grant, 2023
 - International Public Policy Association (IPPA) Annual Meetng Travel Grant, 2023
 - Fall 2022 College of Social Sciences and Humanities (CSSH) Experiential Fellowship, Northeastern University, 2022
-- Outstanding Master Thesis Award ($300 USD), Southeast University, 2020
+- Outstanding Master Thesis Award, Southeast University, 2020
 - Outstanding Master Graduate, Southeast University, 2019
 - Outstanding Graduate Student, Southeast University, 2018
 - Chinese National Scholarship, The Central Government of China, 2017
