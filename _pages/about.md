@@ -20,6 +20,9 @@ Scholarly Interests
 
 Latest News
 ======
+- **3/2024** I successfully defended my PhD dissertation!
+
+- **2/2024** I presented my research at APSA virtual research meeting!
 
 - **12/2023** I received [a seedling grant](https://cssh.northeastern.edu/nulab/fall-23-grants/) from [The NULab for Texts, Maps, and Networks](https://cssh.northeastern.edu/nulab/).
 
