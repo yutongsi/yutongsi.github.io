@@ -6,6 +6,12 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+**2024**
+- International Public Policy Association's Critical Policy Network and Climate Social Science Network
+  - "Networks of climate obstruction: Discourses of denial and delay in US fossil energy, plastic and agrichemical industries." Panel Paper Presentation, Co-presented with Dr. Jennie Stephens
+
+- APSA Virtual Research Meeting
+  - "Advocacy Group Messaging on Oil and Gas: Unveiling Narrative Strategies through Text Mining and Network Analysis." Panel Paper Presentation
 
 **2023**
 
@@ -17,7 +23,7 @@ redirect_from:
   - "Industry Messaging on Renewables and Natural Gas." Panel paper presentation
 
 - Politics and Computational Social Science (PaCSS) 2023 APSA Pre-conference, Los Angeles, CA
-  - " Advocacy Group Messaging on Oil and Gas: Unveiling Narrative Strategies through Text Mining and Network Analysis." Panel paper presentation
+  - "Advocacy Group Messaging on Oil and Gas: Unveiling Narrative Strategies through Text Mining and Network Analysis." Panel paper presentation
 
 - 83rd Annual Meeting of the Academy of Management, Boston, MA			
   - “Public discourse on SDG7: Hashtag co-occurrence networks and social justice messaging on Twitter." Panel paper presentation (DEI division)
