@@ -20,7 +20,7 @@ Scholarly Interests
 
 Latest News
 ======
-- **3/2024** I successfully defended my PhD dissertation!
+- **3/2024** I successfully defended my PhD dissertation!!!
 
 - **2/2024** I presented my research at APSA virtual research meeting!
 
