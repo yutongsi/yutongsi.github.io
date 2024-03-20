@@ -18,7 +18,7 @@ redirect_from:
 ### _DEGREES_
 
 Northeastern University | Boston, MA
-- Ph.D., Public Policy, expected April 2024, Dissertation: Energy Justice, Energy Policy, and Transformative Climate Action
+- Ph.D., Public Policy, 2024, Dissertation: Energy Justice, Energy Policy, and Transformative Climate Action
 
 Southeast University | Nanjing, China
 - M.A., Public Administration, 2019, national scholarship, outstanding graduate student & outstanding master thesis
