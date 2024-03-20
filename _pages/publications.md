@@ -19,7 +19,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 ## Journal Articles
 
-- Xiao, Yu, **Yutong Si**, and Yue Guo. Forthcoming. [“The Evolution of Social Network Analysis in Public Administration."] (https://journals.sagepub.com/doi/10.1177/15396754231221485) Chinese Public Administration Review. 
+- Xiao, Yu, **Yutong Si**, and Yue Guo. Forthcoming. [“The Evolution of Social Network Analysis in Public Administration."](https://journals.sagepub.com/doi/10.1177/15396754231221485) Chinese Public Administration Review. 
 
 - Ding, Yueting, **Yutong Si**, Kewei Xu, Shuang Zhang, and Zhaohua Wang. 2023. [“Spatial Disparity of Utility-Scale Solar Energy and the Role of Solar Policy in the U.S.”](https://www.sciencedirect.com/science/article/pii/S2211467X23001293?dgcid=rss_sd_all) Energy Strategy Reviews 50:101179. doi: 10.1016/j.esr.2023.101179.
 
