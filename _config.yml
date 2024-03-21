@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yutong Si 司雨桐"
 title_separator          : "/"
-name                     : &name "Yutong Si (she/her)"
+name                     : &name "Yutong Si (she/her), PhD"
 description              : &description "personal description"
 url                      : https://yutongsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yutong Si (She/Her)"
   avatar           : "Si_Profile Image Square 2022.jpg"
-  bio              : "Doctoral Candidate, School of Public Policy and Urban Affairs, Northeastern University"
+  bio              : "School of Public Policy and Urban Affairs, Northeastern University"
   location         : "Boston, United States"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
