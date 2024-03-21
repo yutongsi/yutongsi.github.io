@@ -31,7 +31,7 @@ Southeast University | Nanjing, China
 - Nankai University, Tianjin, China
   - Scholar for the 9th China International Civil Servants Capacity Building Program, hosted by the UN Association of China
     
-- IES Abroad， Vienna, Austria & Geneva, Switzerland
+- IES Abroad, Vienna, Austria & Geneva, Switzerland
   - Selected Participant for the Short Course of International Organizations
     
 - Huazhong Agricultural University, Wuhan, China
