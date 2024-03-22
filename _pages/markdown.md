@@ -7,10 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 **2024**
-- International Public Policy Association's Critical Policy Network and Climate Social Science Network Joint Workshop
+- International Public Policy Association's Critical Policy Network and Climate Social Science Network Joint Workshop, Online
   - "Networks of climate obstruction: Discourses of denial and delay in US fossil energy, plastic and agrichemical industries." Panel Paper Presentation, Co-presented with Dr. Jennie Stephens
 
-- APSA Virtual Research Meeting
+- APSA Virtual Research Meeting, Online
   - "Advocacy Group Messaging on Oil and Gas: Unveiling Narrative Strategies through Text Mining and Network Analysis." Panel Paper Presentation
 
 **2023**
