@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 **2024**
-- 81st Annual Midwest Political Science Association Conference, Hybrid
+- 81st Annual Midwest Political Science Association (MPSA) Conference, Hybrid
   - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
     
 - International Public Policy Association's Critical Policy Network and Climate Social Science Network Joint Workshop, Online
