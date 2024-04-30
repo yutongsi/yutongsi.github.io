@@ -12,6 +12,9 @@ redirect_from:
 #<iframe src="/files/Si_CV January 2024.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 <!--## Academic Appointments-->
+## Academic Appointment
+Columbia University | New York, NY
+- Associate Research Scientist, Mailman School of Public Health & School of International and Public Affairs, 2024-
 
 ## Education
 
