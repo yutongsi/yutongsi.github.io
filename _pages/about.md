@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research aims to develop a better understanding of how to design and implement policies that promote renewable energy deployment, phase out fossil fuels, and advance energy justice. I am passionate about utilizing computational text analysis and social network analysis in my research. In support of my work, I hold a Fall 2022 Experiential Fellowship from Northeastern’s College of Social Sciences and Humanities. My work is also partially funded by Northeastern University’s Transforming Interdisciplinary Experiential Research (TIER) 1 Seed Grant and a grant from Brown University’s Climate Social Science Network (CSSN).
+I am an Associate Research Scientist at Columbia University's Mailman School of Public Health. My research aims to develop a better understanding of how to design and implement policies that promote renewable energy deployment, phase out fossil fuels, and advance energy justice. I am passionate about utilizing computational text analysis and social network analysis in my research. I received my PhD in Public Policy from Northeastern University (Boston). In support of my dissertation work, I hold a Fall 2022 Experiential Fellowship from Northeastern’s College of Social Sciences and Humanities. My work was also partially funded by Northeastern University’s Transforming Interdisciplinary Experiential Research (TIER) 1 Seed Grant and a grant from Brown University’s Climate Social Science Network (CSSN).
 
 Scholarly Interests
 ======
@@ -20,9 +20,11 @@ Scholarly Interests
 
 Latest News
 ======
+- **5/2024** I started my new position as Associate Research Scientist at Columbia University!
+  
 - **3/2024** I successfully defended my PhD dissertation!!!
 
-- **2/2024** I presented my research at APSA virtual research meeting!
+- **2/2024** I presented my research at APSA virtual research meeting.
 
 - **12/2023** I received [a seedling grant](https://cssh.northeastern.edu/nulab/fall-23-grants/) from [The NULab for Texts, Maps, and Networks](https://cssh.northeastern.edu/nulab/).
 
