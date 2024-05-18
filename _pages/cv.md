@@ -14,7 +14,7 @@ redirect_from:
 <!--## Academic Appointments-->
 ## Academic Appointment
 Columbia University | New York, NY
-- Associate Research Scientist, Mailman School of Public Health & School of International and Public Affairs, 2024-
+- Associate Research Scientist, Mailman School of Public Health, 2024-
 
 ## Education
 
