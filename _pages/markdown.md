@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 **2024**
+- 74th Annual ICA Pre-Conference of the Environmental Communication Division, PhD Workshop, Online
+  - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
+
 - 81st Annual Midwest Political Science Association (MPSA) Conference, Online
   - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
     
