@@ -28,6 +28,10 @@ Southeast University | Nanjing, China
 - B.A., Political Science and Public Administration, 2016, invited to enter the M.A. program
 
 ### _NON-DEGREES_
+- Drexel Urban Health Collaborative Summer Institute, Philadelphia, US
+  - Spatial and Spatial Temporal Statistics: Modeling and Applications
+  - Climate Change for Urban Health Researchers
+
 - The Education University of Hong Kong, Hong Kong, China
   - Scholar at the 2nd International Summer Training Camp for Young Public Policy Researchers
     
@@ -54,4 +58,4 @@ Southeast University | Nanjing, China
 - Huazang Scholarship, Southeast University, 2015
 
 ## Ad Hoc Reviewer
-Public Administration Review, Expert Systems with Applications, Energy Research & Social Science, Journal of Chinese Political Science, Journal of Cleaner Production, Urban Governance, Journal of Asian Public Policy, Chinese Public Administration Review
+Public Administration Review, Expert Systems with Applications, Energy Research & Social Science, The Electricity Journal, Journal of Chinese Political Science, Journal of Cleaner Production, Urban Governance, Journal of Asian Public Policy, Chinese Public Administration Review
