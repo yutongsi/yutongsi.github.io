@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 **2024**
+
+- 10th International Conference on Computational Social Science (IC2S2), Philadelphia, PA
+  - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Poster Presentation
+    
 - 74th Annual ICA Pre-Conference of the Environmental Communication Division, PhD Workshop, Online
   - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
 
