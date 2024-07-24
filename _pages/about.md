@@ -22,7 +22,7 @@ Scholarly Interests
 
 Latest News
 ======
-- **7/2024** I presented my research on Narratives on Oil and Gas from Opposing Advocacy Groups at IC2S2 hosted by Upenn in Philly.
+- **7/2024** I presented my research on Narratives on Oil and Gas from Opposing Advocacy Groups at IC2S2 hosted by the University of Pennsylvania in Philly.
   
 - **5/2024** I started my new position as Associate Research Scientist at Columbia University!
   
