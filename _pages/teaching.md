@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 **Columbia Univeristy, New York NY**
-- Guest Lecture: “Implementing the clean energy transition at home: Solar disparities", PS5805 section D01 Equity, Energy and the Built Environment, Summer 2024
+- Guest Lecturer, gave a talk entitled “Implementing the clean energy transition at home: Solar disparities", PS5805 section D01 Equity, Energy and the Built Environment, Summer 2024
   
 **Northeastern University, Boston MA**
 - Teaching Assistant, PPUA 5264 Energy Democracy & Climate Resilience: Technology, Policy and Social Change,  Fall 2020 & Spring 2024
