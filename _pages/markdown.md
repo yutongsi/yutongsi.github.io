@@ -7,7 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 **2024**
-
+- American Political Science Association (APSA) Annual Meeting & Exhibition, Philadelphia, PA
+  - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
+    
 - 10th International Conference on Computational Social Science (IC2S2), Philadelphia, PA
   - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Poster Presentation
     
