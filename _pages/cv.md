@@ -28,6 +28,8 @@ Southeast University | Nanjing, China
 - B.A., Political Science and Public Administration, 2016, invited to enter the M.A. program
 
 ### _NON-DEGREES_
+- Columbia University, New York, US
+  - Systematic Review and Meta-Analysis
 - Drexel Urban Health Collaborative Summer Institute, Philadelphia, US
   - Spatial and Spatial Temporal Statistics: Modeling and Applications
   - Climate Change for Urban Health Researchers
