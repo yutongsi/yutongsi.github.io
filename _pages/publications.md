@@ -35,9 +35,8 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 ## Book Chapters
 
-- Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
-  
 - **Si, Yutong**, and Jennie C. Stephens. 2024. [“An energy justice analysis of global renewable energy transformation.”](https://www.elgaronline.com/edcollchap/book/9781802208757/book-part-9781802208757-14.xml?tab_body=abstract-copy1) Pp. 120-141 in The Future of Just Transitions, edited by Darren McCauley, Tracy-Lynn Field, Raphael Heffron, and Iain Todd. Edward Elgar Publishing.
+- Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
 
 ## Manuscripts Under Review
 
