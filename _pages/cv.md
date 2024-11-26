@@ -29,7 +29,8 @@ Southeast University | Nanjing, China
 
 ### _NON-DEGREES_
 - Columbia University, New York, US
-  - Systematic Review and Meta-Analysis
+  - Virtual Workshop on Systematic Review and Meta-Analysis
+    
 - Drexel Urban Health Collaborative Summer Institute, Philadelphia, US
   - Spatial and Spatial Temporal Statistics: Modeling and Applications
   - Climate Change for Urban Health Researchers
