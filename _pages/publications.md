@@ -19,6 +19,8 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 ## Journal Articles
 
+- **Si, Yutong**, Alaina Kinol, Hongtao Yi, and Diana Hernández. 2024. “Space for Justice in Sustainable Development Goal 7 (SDG7) Discourse: Examining Hashtag Co‐Occurrence Networks and Energy Justice Messaging on Social Media.” Sustainable Development. doi: https://doi.org/10.1002/sd.3334
+  
 - Xiao, Yu, **Yutong Si**, and Yue Guo. 2024. [“The Evolution of Social Network Analysis in Public Administration."](https://journals.sagepub.com/doi/10.1177/15396754231221485) Chinese Public Administration Review. doi: 10.1177/15396754231221485.
 
 - Ding, Yueting, **Yutong Si**, Kewei Xu, Shuang Zhang, and Zhaohua Wang. 2023. [“Spatial Disparity of Utility-Scale Solar Energy and the Role of Solar Policy in the U.S.”](https://www.sciencedirect.com/science/article/pii/S2211467X23001293?dgcid=rss_sd_all) Energy Strategy Reviews 50:101179. doi: 10.1016/j.esr.2023.101179.
@@ -46,8 +48,6 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 - **Si, Yutong**. “Advocacy Group Messaging on Oil and Gas: Unveiling Policy Narratives through Text Mining and Network Analysis.”
   
 - Desai, Dipa, **Yutong Si**, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. “A Comparative Analysis of the Sustainability Strategies of Multinational Energy Companies.”
-  
-- **Si, Yutong**, Alaina Kinol, and Hongtao Yi. “Public discourse on SDG7: Examining hashtag co-occurrence networks and social justice messaging on Twitter.”
 
 ## Publications in Chinese
 
