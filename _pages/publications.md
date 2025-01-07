@@ -19,7 +19,7 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 ## Journal Articles
 
-- **Si, Yutong**, Alaina Kinol, Hongtao Yi, and Diana Hernández. 2024. [“Space for Justice in Sustainable Development Goal 7 (SDG7) Discourse: Examining Hashtag Co‐Occurrence Networks and Energy Justice Messaging on Social Media.”] (https://onlinelibrary.wiley.com/doi/10.1002/sd.3334) Sustainable Development. doi: https://doi.org/10.1002/sd.3334
+- **Si, Yutong**, Alaina Kinol, Hongtao Yi, and Diana Hernández. 2024. [“Space for Justice in Sustainable Development Goal 7 (SDG7) Discourse: Examining Hashtag Co‐Occurrence Networks and Energy Justice Messaging on Social Media.”](https://onlinelibrary.wiley.com/doi/10.1002/sd.3334) Sustainable Development. doi: https://doi.org/10.1002/sd.3334
   
 - Xiao, Yu, **Yutong Si**, and Yue Guo. 2024. [“The Evolution of Social Network Analysis in Public Administration."](https://journals.sagepub.com/doi/10.1177/15396754231221485) Chinese Public Administration Review. doi: 10.1177/15396754231221485.
 
