@@ -18,7 +18,8 @@ author_profile: true
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
 ## Journal Articles
-
+- Kinol, Alaina, **Yutong Si**, John Kinol, and Jennie C. Stephens. 2025. [“Networks of climate obstruction: How fossil energy, plastic, and agrichemical industries deny and delay climate policy on social media.”](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000370) PLOS Climate. 
+  
 - **Si, Yutong**, Alaina Kinol, Hongtao Yi, and Diana Hernández. 2024. [“Space for Justice in Sustainable Development Goal 7 (SDG7) Discourse: Examining Hashtag Co‐Occurrence Networks and Energy Justice Messaging on Social Media.”](https://onlinelibrary.wiley.com/doi/10.1002/sd.3334) Sustainable Development. doi: https://doi.org/10.1002/sd.3334
   
 - Xiao, Yu, **Yutong Si**, and Yue Guo. 2024. [“The Evolution of Social Network Analysis in Public Administration."](https://journals.sagepub.com/doi/10.1177/15396754231221485) Chinese Public Administration Review. doi: 10.1177/15396754231221485.
