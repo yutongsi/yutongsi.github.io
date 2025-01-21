@@ -43,8 +43,6 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 - Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
 
 ## Manuscripts Under Review
-
-- Kinol, Alaina, **Yutong Si**, John Kinol, and Jennie C. Stephens. “Networks of climate obstruction: How fossil energy, plastic, and agrichemical industries deny and delay climate policy on social media.”
   
 - **Si, Yutong**. “Advocacy Group Messaging on Oil and Gas: Unveiling Policy Narratives through Text Mining and Network Analysis.”
   
