@@ -6,6 +6,11 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+**2025**
+- American Association of Geographers (AAG) Annual Meeting, virtural
+  - "Spatial disparities in electricity rates: Analyzing sociodemographic influences across US utilities." Panel Paper Presentation
+    
 **2024**
 - American Political Science Association (APSA) Annual Meeting & Exhibition, Philadelphia, PA
   - "Aggregating Narratives on Oil and Gas from Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives through Text Mining and Network Analysis." Panel Paper Presentation
