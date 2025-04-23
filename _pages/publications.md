@@ -18,6 +18,8 @@ author_profile: true
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
 ## Journal Articles
+- **Si, Yutong**. 2025. [“Aggregating Narratives on Oil and Gas From Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives Through Text Mining and Network Analysis.”] (https://onlinelibrary.wiley.com/doi/full/10.1111/psj.70029) Policy Studies Journal 00(0): 1–25. https://doi.org/10.1111/psj.70029.
+
 - Kinol, Alaina, **Yutong Si**, John Kinol, and Jennie C. Stephens. 2025. [“Networks of climate obstruction: How fossil energy, plastic, and agrichemical industries deny and delay climate policy on social media.”](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000370) PLOS Climate. doi:10.1371/journal.pclm.0000370
   
 - **Si, Yutong**, Alaina Kinol, Hongtao Yi, and Diana Hernández. 2024. [“Space for Justice in Sustainable Development Goal 7 (SDG7) Discourse: Examining Hashtag Co‐Occurrence Networks and Energy Justice Messaging on Social Media.”](https://onlinelibrary.wiley.com/doi/10.1002/sd.3334) Sustainable Development. doi: https://doi.org/10.1002/sd.3334
