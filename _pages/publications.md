@@ -46,8 +46,6 @@ You can find the full publication list on my [Google Scholar](https://scholar.go
 
 ## Manuscripts Under Review
   
-- **Si, Yutong**. “Advocacy Group Messaging on Oil and Gas: Unveiling Policy Narratives through Text Mining and Network Analysis.”
-  
 - Desai, Dipa, **Yutong Si**, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. “A Comparative Analysis of the Sustainability Strategies of Multinational Energy Companies.”
 
 ## Publications in Chinese
