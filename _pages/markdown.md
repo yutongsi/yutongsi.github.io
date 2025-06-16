@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **2025**
-- American Association of Geographers (AAG) Annual Meeting, virtural
+- American Association of Geographers (AAG) Annual Meeting, virtual
   - "Spatial disparities in electricity rates: Analyzing sociodemographic influences across US utilities." Panel Paper Presentation
     
 **2024**
