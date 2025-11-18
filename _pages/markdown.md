@@ -13,7 +13,7 @@ redirect_from:
    - "Healthwashing on Social Media: Leveraging Large Language Models to Examine Big Carbon’s Health Messaging." Panel paper presentation
      
 -  American Association of Geographers (AAG) Annual Meeting, virtual
-  - "Spatial disparities in electricity rates: Analyzing sociodemographic influences across US utilities." Panel Paper Presentation
+   - "Spatial disparities in electricity rates: Analyzing sociodemographic influences across US utilities." Panel Paper Presentation
     
 **2024**
 - American Political Science Association (APSA) Annual Meeting & Exhibition, Philadelphia, PA
