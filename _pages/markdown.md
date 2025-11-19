@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **2025**
--  APPAM 2025 Fall Conference, Seattle, MA
+-  APPAM 2025 Fall Conference, Seattle, WA
    - “Street-Level Bureaucrats’ Perspectives on AI and Robotics Adoption in New York City’s Building Sector.” Panel paper presentation
    - "Healthwashing on Social Media: Leveraging Large Language Models to Examine Big Carbon’s Health Messaging." Panel paper presentation
      
