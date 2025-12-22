@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 **Columbia Univeristy, New York NY**
+- Guest Lecture, "Just Energy Transition”, PS5805 Equity, Energy and the Built Environment: Current Practices and Future Transitions, Summer 2025
 - Guest Lecture, “Implementing the clean energy transition at home: Solar disparities", PS5805 section D01 Equity, Energy and the Built Environment, Summer 2024
   
 **Northeastern University, Boston MA**
