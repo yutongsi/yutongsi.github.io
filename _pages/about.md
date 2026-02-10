@@ -26,6 +26,6 @@ Latest News
   
 - **11/2025** I presented my recent research at the annual meeting of the Association for Public Policy Analysis & Management in Seattle, WA.
   
-- **07/2025** I received a grant from Brown University's Climate Social Science Network.
+- **07/2025**  I was awarded a research grant from Brown University’s Climate Social Science Network (CSSN) to investigate industry healthwashing strategies and their impact on climate policy.
  
  
