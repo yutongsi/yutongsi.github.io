@@ -22,7 +22,8 @@ Scholarly Interests
 
 Latest News
 ======
-
+- **01/2026** I am honored to be named as an ABF/JPB Access to Justice Early Career Fellow, where I will join a multidisciplinary cohort at the American Bar Foundation to advance empirical research on civil justice.
+  
 - **11/2025** I presented my recent research at the annual meeting of the Association for Public Policy Analysis & Management in Seattle, WA.
   
 - **7/2025** I received a grant from Brown University's Climate Social Science Network.
