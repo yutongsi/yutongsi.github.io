@@ -22,10 +22,14 @@ Scholarly Interests
 
 Latest News
 ======
+- **02/2026** I presented our most recent research at the Understanding & Addressing Energy Affordability Workshop Poster Session (Washington D.C.), hosted by The National Academies of Sciences, Engineering, and Medicine.
+  
+- **02/2026** Awarded a grant as PI from New York State Research and Development Authority (NYSDERDA)!
+  
 - **01/2026** I am honored to be named as an ABF/JPB Access to Justice Early Career Fellow, where I will join a multidisciplinary cohort at the American Bar Foundation to advance empirical research on civil justice.
   
 - **11/2025** I presented my recent research at the annual meeting of the Association for Public Policy Analysis & Management in Seattle, WA.
   
-- **07/2025**  I was awarded a research grant from Brown University’s Climate Social Science Network (CSSN) to investigate industry healthwashing strategies and their impact on climate policy.
+- **07/2025**  I was awarded a research grant as PI from Brown University’s Climate Social Science Network (CSSN) to investigate industry healthwashing strategies and their impact on climate policy.
  
  
