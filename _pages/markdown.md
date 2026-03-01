@@ -6,6 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+**2026**
+- National Academies of Sciences, Engineering, and Medicine (NASEM), Washington, D.C. 
+    - “Income, Institutions, and Residential Electricity Rates: How Market Structure Conditions the Income–Rate Relationship”, Selected early-career scholar poster presentation **(funded)**, [National Academies’ Workshop on Understanding and Addressing Energy Affordability in the United States] (https://www.nationalacademies.org/projects/CAST-PSSI-25-02/event/46167).
 
 **2025**
 -  APPAM 2025 Fall Conference, Seattle, WA
