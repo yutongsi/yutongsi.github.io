@@ -23,7 +23,7 @@ Latest News
 ======
 - **02/2026** I presented our most recent research at the Understanding & Addressing Energy Affordability Workshop Poster Session (Washington D.C.), hosted by The National Academies of Sciences, Engineering, and Medicine.
   
-- **02/2026** Awarded a grant as PI from New York State Research and Development Authority (NYSDERDA)!
+- **02/2026** Awarded a grant as PI from New York State Energy Research and Development Authority (NYSERDA)!
   
 - **01/2026** I am honored to be named as an ABF/JPB Access to Justice Early Career Fellow, where I will join a multidisciplinary cohort at the American Bar Foundation to advance empirical research on civil justice.
   
