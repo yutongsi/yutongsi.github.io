@@ -7,17 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Research Scientist at Columbia University’s Mailman School of Public Health. My research examines the intersection of data science, public policy and political communication. Substantively, my work investigates how institutions, narratives, and networks shape energy transition, electricity affordability, and health equity outcomes. Methodologically, I use mixed methods, including computational text analysis, social network analysis, and quantitative approaches. My work has appeared in Policy Studies Journal, Energy Research & Social Science, Energy Strategy Reviews, Sustainable Development, Climatic Change, and PLOS Climate, among other journals. I am currently working on projects funded by Brown University’s Climate Social Science Network (CSSN) and the New York State Energy Research and Development Authority (NYSERDA). As an American Bar Foundation/JPB Foundation Access to Justice Early-Career Scholar (January–October 2026), I am analyzing electricity rate cases to understand how institutional design shapes procedural justice in energy regulation.
+I am an Associate Research Scientist at Columbia University’s Mailman School of Public Health. My research examines the intersection of data science, public policy and public health. Substantively, my work investigates the social and political drivers that shape energy transitions, electricity affordability, and health equity outcomes. Methodologically, I use mixed methods, including computational text analysis, social network analysis, and quantitative approaches. My work has appeared in Policy Studies Journal, Energy Research & Social Science, Energy Strategy Reviews, Sustainable Development, Climatic Change, and PLOS Climate, among other journals. I am currently working on projects funded by Brown University’s Climate Social Science Network (CSSN) and the New York State Energy Research and Development Authority (NYSERDA). As an American Bar Foundation/JPB Foundation Access to Justice Early-Career Scholar (January–October 2026), I am analyzing electricity rate cases to examine procedural justice in energy regulation.
 
 I received my PhD in Public Policy from Northeastern University (Boston) where I was advised by Dr. Jennie C. Stephens. In support of my dissertation work, I hold a Fall 2022 Experiential Fellowship from Northeastern’s College of Social Sciences and Humanities. My dissertation work was also partially funded by Northeastern University’s Transforming Interdisciplinary Experiential Research (TIER) 1 Seed Grant and a grant from CSSN.
 
 Scholarly Interests
 ======
 - Energy Justice
-- Climate Communication
+- Health Equity
 - Social Media
 - Computational Text Analysis
 - Social Network Analysis
+- Quantitative Methods
 
 Latest News
 ======
