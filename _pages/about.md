@@ -22,6 +22,10 @@ Scholarly Interests
 
 Latest News
 ======
+- **06/2026** I completed the Summer Academy on Large Language Models for Social Science (LLM4SS) at Columbia University, where I was selected to participate in an intensive training program on the use of large language models in social science research.
+
+- **05/2026** I was selected as a Career Development Program Awardee by the NIEHS Center for Environmental Health in Northern Manhattan at Columbia University, and I will be working on a pilot project examining the environmental health impacts of emerging digital infrastructure.
+
 - **02/2026** I presented our most recent research at the Understanding & Addressing Energy Affordability Workshop Poster Session (Washington D.C.), hosted by The National Academies of Sciences, Engineering, and Medicine.
   
 - **02/2026** Awarded a grant as PI from New York State Energy Research and Development Authority (NYSERDA)!
