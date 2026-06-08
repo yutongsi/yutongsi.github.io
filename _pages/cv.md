@@ -29,6 +29,9 @@ Southeast University | Nanjing, China
 
 ### _NON-DEGREES_
 - Columbia University, New York, US
+  - Selected Participant, Summer Academy on Large Language Models for Social Science (LLM4SS)
+
+- Columbia University, New York, US
   - Virtual Workshop on Systematic Review and Meta-Analysis
     
 - Drexel Urban Health Collaborative Summer Institute, Philadelphia, US
@@ -48,6 +51,8 @@ Southeast University | Nanjing, China
   - Selected Participant in the Applied Social Science Research Methods Training Workshop
 
 ## Selected Grants, Fellowships & Awards
+- Career Development Program Award, NIEHS Center for Environmental Health in Northern Manhattan, Columbia University, 2026-2028
+- American Bar Foundation/JPB Foundation Access to Justice Early-Career Scholar, research stipend and travel support (Chicago), 2026
 - NULab for Texts, Maps, and Networks Seedling Grant in support of data collection, Northeastern University, Dec. 2023
 - 2023 Association for the Advancement of Sustainability in Higher Education (AASHE) Sustainability Award for _Climate justice in higher education: a proposed paradigm shift towards a transformative role for colleges and universities_
 - Travel Funding Award, Northeastern University, 2021, 2022 & 2023
