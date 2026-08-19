@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 **2026**
+
+- American Bar Foundation (ABF), Chicago, IL
+  - “Social Constructions, Comment Campaigns, and Implications for Procedural Justice in Utility Rate Proceedings,” Invited presentation as an ABF/JPB Foundation Access to Justice Early-Career Scholar at the ABF/JPB Access to Justice Research Initiative Early-Career Workshop **(funded by ABF)**
+  
 - National Academies of Sciences, Engineering, and Medicine (NASEM), Washington, D.C. 
     - “Income, Institutions, and Residential Electricity Rates: How Market Structure Conditions the Income–Rate Relationship”, Selected early-career scholar poster presentation **(funded by NASEM)**, National Academies’ Workshop on Understanding and Addressing Energy Affordability in the United States
 
