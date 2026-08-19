@@ -18,7 +18,7 @@ author_profile: true
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
 ## Journal Articles
-- Si, Yutong, Qian Li, Farzana Khan, and Diana Hern´andez. 2026. [“The Felt Experience of Energy Insecurity: Revealing an Affective Continuum based
+- **Si, Yutong**, Qian Li, Farzana Khan, and Diana Hern´andez. 2026. [“The Felt Experience of Energy Insecurity: Revealing an Affective Continuum based
 on Sentiment Analysis Among New York City Residents.”](https://www.sciencedirect.com/science/article/abs/pii/S2214629626003154?via%3Dihub) Energy Research & Social Science. 139. https://doi.org/10.1016/j.erss.2026.104844
 
 - Desai, Dipa, **Yutong Si**, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. [“Renewable Reporting of Fossil Fuel Companies: Corporate Communication as the Climate Crisis Worsens.”](https://link.springer.com/article/10.1186/s13705-026-00565-z) Energ Sustain Soc 16, 13 (2026). https://doi.org/10.1186/s13705-026-00565-z
