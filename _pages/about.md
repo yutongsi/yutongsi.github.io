@@ -16,9 +16,8 @@ Scholarly Interests
 - Energy Justice
 - Health Equity
 - Social Media
-- Computational Text Analysis
-- Social Network Analysis
-- Quantitative Methods
+- Computational Social Science
+- Data Science for Policy
 
 Latest News
 ======
