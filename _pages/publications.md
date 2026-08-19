@@ -18,6 +18,8 @@ author_profile: true
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=wgggEW8AAAAJ&hl=en) profile.
 
 ## Journal Articles
+- Desai, Dipa, Yutong Si, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. [“Renewable Reporting of Fossil Fuel Companies: Corporate Communication as the Climate Crisis Worsens.”](https://link.springer.com/article/10.1186/s13705-026-00565-z) Energ Sustain Soc 16, 13 (2026). https://doi.org/10.1186/s13705-026-00565-z
+
 - **Si, Yutong**, Antonella Dominique Fasulo, Qian Li, Chen Feng, and Diana Hernández. 2026. ["Street-level bureaucrats’ perspectives on artificial intelligence (AI) and robotics adoption: a mixed-methods study of New York City’s building sector"](https://link.springer.com/article/10.1007/s00146-025-02785-x) AI & Society. https://doi.org/10.1007/s00146-025-02785-x 
 
 - **Si, Yutong**. 2025. [“Aggregating Narratives on Oil and Gas From Opposing Advocacy Groups: Revealing Temporal Shifts in Narratives Through Text Mining and Network Analysis.”](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.70029) Policy Studies Journal 00(0): 1–25. https://doi.org/10.1111/psj.70029.
