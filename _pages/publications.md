@@ -51,10 +51,6 @@ on Sentiment Analysis Among New York City Residents.”](https://www.sciencedire
   
 - Kane, Michael, Elizabeth Allen, **Yutong Si**, and Jennie C. Stephens. 2023. [“Sharing in Future Electric Energy Systems.”](https://www.cambridge.org/core/books/reengineering-the-sharing-economy/sharing-in-future-electric-energy-systems/410D958C21F868F0BBC9664B0442013C) Pp. 191–209 in Reengineering the Sharing Economy: Design, Policy, and Regulation, edited by B. Heydari, O. Ergun, R. Dyal-Chand, and Y. Bart. Cambridge: Cambridge University Press.
 
-## Manuscripts Under Review
-  
-- Desai, Dipa, **Yutong Si**, Diana Bozhilova, Sheila Puffer, and Jennie C. Stephens. “A Comparative Analysis of the Sustainability Strategies of Multinational Energy Companies.”
-
 ## Publications in Chinese
 
 - **Si, Yutong**. 2019. “Research on the Policy Implementation Process of Targeted Poverty Alleviation in Village L: From the Perspective of ‘State in Society’ Theory” (in Chinese). Outstanding Thesis. Southeast University. China National Knowledge Infrastructure (CNKI). DOI: 10.1017/cbo9781107239029.011
