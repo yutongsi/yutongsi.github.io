@@ -9,7 +9,7 @@ redirect_from:
 **2026**
 
 - American Public Health Association (APHA) Annual Meeting and Expo, San Antonio, TX
-  - “Healthwashing on Social Media: A Large Language Model Analysis of Fossil Fuel and Animal Agriculture Narratives,” Panel Paper Presentation, 
+  - “Healthwashing on Social Media: A Large Language Model Analysis of Fossil Fuel and Animal Agriculture Narratives,” Panel Paper Presentation 
 
 - American Bar Foundation (ABF), Chicago, IL
   - “Social Constructions, Comment Campaigns, and Implications for Procedural Justice in Utility Rate Proceedings,” Invited presentation as an ABF/JPB Foundation Access to Justice Early-Career Scholar at the ABF/JPB Access to Justice Research Initiative Early-Career Workshop **(funded by ABF)**
