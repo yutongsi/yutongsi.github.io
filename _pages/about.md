@@ -21,6 +21,8 @@ Scholarly Interests
 
 Latest News
 ======
+- **11/2026** I presented my recent research on industry healthwashing at the APHA in San Antonio!
+  
 - **07/2026** I presented my research on social constructions, comment campaigns, and procedural justice in utility rate proceedings at the American Bar Foundation/JPB Foundation Access to Justice Research Initiative Early-Career Workshop in Chicago, where I participated as an ABF/JPB Access to Justice Early-Career Scholar.
   
 - **06/2026** I completed the Summer Academy on Large Language Models for Social Science (LLM4SS) at Columbia University, where I was selected to participate in an intensive training program on the use of large language models in social science research.
